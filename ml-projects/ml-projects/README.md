@@ -1,7 +1,7 @@
 # Machine Learning / Deep Learning Projects
 
-A collection of **five self-contained, educational ML/DL projects** covering the core
-topics taught in top-tier US CS programs — from undergraduate machine learning
+A collection of **five ML/DL projects** covering the core
+topics taught in CS programs — from undergraduate machine learning
 fundamentals up to PhD-level generative modeling.
 
 > **Note**: All code is written from scratch as original educational implementations of
