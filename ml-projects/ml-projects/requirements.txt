@@ -1,0 +1,19 @@
+# Global requirements for all projects.
+# Each project folder also has its own requirements.txt with the minimal subset.
+
+# Project 1 (neural-network-from-scratch)
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
+
+# Projects 2-5 (PyTorch-based)
+torch>=2.0
+torchvision>=0.15
+
+# Project 5 (DQN reinforcement learning)
+gymnasium[classic-control]>=0.29
+# For the optional LunarLander environment:
+# gymnasium[box2d]>=0.29   # requires swig: pip install swig
+
+# Utilities
+tqdm>=4.60
