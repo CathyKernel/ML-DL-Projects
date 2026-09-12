@@ -1,2 +1,0 @@
-torch>=2.0
-# No other dependencies: numpy/matplotlib come with the global requirements
