@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
+# Optional: enables the --dataset mnist loader
+# torchvision>=0.15
