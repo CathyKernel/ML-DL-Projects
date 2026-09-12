@@ -32,7 +32,6 @@ ml-projects/
 ├── 04-ddpm-mnist/                    # Diffusion model generating MNIST digits
 ├── 05-dqn-reinforcement-learning/    # DQN agent playing CartPole / LunarLander
 ├── requirements.txt                  # Global dependencies (all projects)
-├── LICENSE
 └── README.md
 ```
 
